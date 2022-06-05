@@ -2,3 +2,10 @@ bases:
 - ../../base
 namespace: prod
 namePrefix: prod-
+
+
+#patchesStrategicMerge:
+#- deploy_replicas.yaml
+replicas:
+  name: my-nginx 
+  count: 2
