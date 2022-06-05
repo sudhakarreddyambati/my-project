@@ -1,3 +1,4 @@
 bases:
 - ../../base
+namepsace: dev
 namePrefix: dev-
