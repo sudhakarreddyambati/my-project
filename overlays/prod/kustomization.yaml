@@ -1,4 +1,4 @@
 bases:
-- ../base
+- ../../base
 namespace: prod
 namePrefix: prod-
