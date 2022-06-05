@@ -8,4 +8,4 @@ namePrefix: prod-
 #- deploy_replicas.yaml
 replicas:
   name: my-nginx 
-  count: 2
+  count: 3
