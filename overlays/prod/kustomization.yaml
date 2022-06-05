@@ -7,5 +7,5 @@ namePrefix: prod-
 #patchesStrategicMerge:
 #- deploy_replicas.yaml
 replicas:
-  name: my-nginx 
+- name: my-nginx 
   count: 3
