@@ -1,4 +1,4 @@
 bases:
 - ../../base
-namepsace: dev
+namespace: dev
 namePrefix: dev-
