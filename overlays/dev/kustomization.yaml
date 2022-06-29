@@ -1,4 +1,4 @@
 bases:
-- ../../base
+- main/base
 namespace: dev
 namePrefix: dev-
